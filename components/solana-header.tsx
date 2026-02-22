@@ -22,7 +22,7 @@ export function SolanaHeader({ network, onNetworkChange }: SolanaHeaderProps) {
     : null
 
   return (
-    <header className="flex items-center justify-between border-b border-border px-3 py-2.5">
+    <header className="sticky top-0 z-50 flex items-center justify-between border-b border-border/50 bg-background/80 px-3 py-2.5 backdrop-blur-md">
       <div className="flex items-center gap-2">
         <SidebarTrigger className="md:hidden text-muted-foreground" />
         <Image src="/solana-logo.png" alt="Solana" width={18} height={18} />
