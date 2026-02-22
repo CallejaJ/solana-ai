@@ -181,8 +181,8 @@ export default function Home() {
             {uniqueMessages.length === 0 ? (
               <div className="flex flex-1 flex-col items-center justify-center gap-6 overflow-y-auto px-4 pb-8 pt-32 sm:gap-10 sm:px-6 sm:pt-32 sm:pb-10">
                 <div className="flex flex-col items-center gap-4 text-center">
-                  <div className="icon-solana-gradient flex h-14 w-14 items-center justify-center rounded-2xl sm:h-20 sm:w-20 sm:rounded-3xl">
-                    <MessageSquare className="h-7 w-7 text-black sm:h-10 sm:w-10" />
+                  <div className="icon-solana-gradient flex h-12 w-12 items-center justify-center rounded-2xl sm:h-16 sm:w-16 sm:rounded-3xl">
+                    <MessageSquare className="h-6 w-6 text-black sm:h-8 sm:w-8" />
                   </div>
                   <div className="flex flex-col items-center gap-2">
                     <h2 className="text-balance text-2xl font-bold text-foreground sm:text-3xl">
