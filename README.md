@@ -1,17 +1,13 @@
 # Solana AI Chat Assistant
 
-<div align="center">
-  [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
-  [![Solana](https://img.shields.io/badge/Solana-web3.js-9945FF?style=for-the-badge&logo=solana)](https://solana.com)
-  [![Groq](https://img.shields.io/badge/Groq-Llama_3.1-F55036?style=for-the-badge)](https://groq.com)
-  [![Privy](https://img.shields.io/badge/Privy-Auth-6B48FF?style=for-the-badge)](https://privy.io)
-  [![Vercel AI SDK](https://img.shields.io/badge/AI_SDK-v6-000000?style=for-the-badge&logo=vercel)](https://sdk.vercel.ai)
-</div>
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+[![Solana](https://img.shields.io/badge/Solana-web3.js-9945FF?style=for-the-badge&logo=solana)](https://solana.com)
+[![Groq](https://img.shields.io/badge/Groq-Llama_3.1-F55036?style=for-the-badge)](https://groq.com)
+[![Privy](https://img.shields.io/badge/Privy-Auth-6B48FF?style=for-the-badge)](https://privy.io)
+[![Vercel AI SDK](https://img.shields.io/badge/AI_SDK-v6-000000?style=for-the-badge&logo=vercel)](https://sdk.vercel.ai)
 
-<p align="center">
-  <i>A conversational interface for Solana. Check balances, request airdrops, send SOL, and view transaction history — all through natural language, with no blockchain knowledge required.</i>
-</p>
+*A conversational interface for Solana. Check balances, request airdrops, send SOL, and view transaction history — all through natural language, with no blockchain knowledge required.*
 
 ## The Problem It Solves
 
